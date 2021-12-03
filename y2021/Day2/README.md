@@ -1,4 +1,4 @@
-#Puzzle
+# Puzzle
 
 --- Day 2: Dive! ---
 Now, you need to figure out how to pilot this thing.
